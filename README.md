@@ -1,4 +1,4 @@
-# 🛠 SkillCraft Technology Internship Projects
+# SkillCraft Technology Internship Projects
 
 Welcome to a curated showcase of the four hands-on projects I completed during my **Machine Learning Internship** at **SkillCraft Technology**.
 

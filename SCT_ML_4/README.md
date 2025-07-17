@@ -96,10 +96,3 @@ Thanks to [SkillCraft Technology] for the opportunity to explore and implement r
 **Name:** Sign Language MNIST  
 **Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)  
 **Format:** CSV files
-
----
-
-
-## 📬 Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/javajigagansai)  
----

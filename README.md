@@ -5,18 +5,18 @@ Welcome to a curated showcase of the four hands-on projects I completed during m
 ## 📘 Table of Contents
   - [About](#about)
   - [Projects Overview](#projects-overview)
-  - [🏠 Task 1 – House Price Prediction](#task-1-–-house-price-prediction)
-  - [📊 Task 2 – Customer Segmentation](#task-2-–-customer-segmentation)
-  - [🐶 Task 3 – SVM: Cat vs. Dog Classification](#task-3-–-svm-cat-vs-dog-classification)
-  - [🤟 Task 4 – Hand Gesture Recognition](#task-4-–-hand-gesture-recognition)
-  - [🧪 Tech Stack](#tech-stack)
-  - [🚀 Setup & Run](#setup--run)
-  - [🏆 Achievements & Learnings](#achievements--learnings)
-  - [📜 License](#license)
+  - [Task 1 – House Price Prediction](#task-1-–-house-price-prediction)
+  - [Task 2 – Customer Segmentation](#task-2-–-customer-segmentation)
+  - [Task 3 – SVM: Cat vs. Dog Classification](#task-3-–-svm-cat-vs-dog-classification)
+  - [Task 4 – Hand Gesture Recognition](#task-4-–-hand-gesture-recognition)
+  - [Tech Stack](#tech-stack)
+  - [Setup & Run](#setup--run)
+  - [Achievements & Learnings](#achievements--learnings)
+  - [License](#license)
 
 ---
 
-## 📘 About
+## About
 During my month‑long virtual internship, I worked with a structured curriculum provided by SkillCraft Technology, designed to strengthen data science and machine learning skills
 ---
 
@@ -54,7 +54,7 @@ During my month‑long virtual internship, I worked with a structured curriculum
 
 ---
 
-## 🚀 Setup & Run
+## Setup & Run
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/HARSHA0github/SkillCraft-Technology-Internship.git
@@ -68,7 +68,7 @@ During my month‑long virtual internship, I worked with a structured curriculum
 
 ---
 
-## 🏆 Achievements & Learnings
+## Achievements & Learnings
 - Strengthened core ML workflow: **data preprocessing**, **model creation**, **validation**, and **result interpretation**.
 - Explored clustering and supervised classification techniques using real datasets.
 - Gained practical computer vision experience through hand gesture detection.
